@@ -110,7 +110,7 @@ VALUES
     207
   ),
   ("Samba em Paris", 4, 6, 267),
-  ("The Bard's Song", 5, 7, 244),
+  ("The Bard’s Song", 5, 7, 244),
   ("Feeling Good", 6, 8, 100);
 
 CREATE TABLE SpotifyClone.reproduction_history(
